@@ -60,4 +60,4 @@ These commands live in a generated Cordova Android project. Any interactions wit
 
 ## Running the Native Tests
 
-The `test/` directory in this project contains an Android test project that can be used to run different kinds of native tests. Check out the [README contained therein](test/README.md) for more details!
+The `test/` directory in this project contains an Android test project that can be used to run different kinds of native tests. Check out the [README contained therein](test/README.md) (this one) for more details!
